@@ -1,0 +1,4 @@
+2,1800.0,Food,Mess,2025-08-28
+3,100.0,Travel,Home,2025-08-28
+4,120.0,Shopping,Hand Purse,2025-08-28
+5,50.0,Food,Bhel,2025-08-28
